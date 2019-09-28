@@ -1,0 +1,15 @@
+E:\code\csharp\FolderDivider-master\FolderDivider\bin\Debug\FolderDivider.exe.config
+E:\code\csharp\FolderDivider-master\FolderDivider\bin\Debug\FolderDivider.exe
+E:\code\csharp\FolderDivider-master\FolderDivider\bin\Debug\FolderDivider.pdb
+E:\code\csharp\FolderDivider-master\FolderDivider\obj\Debug\FolderDivider.csprojAssemblyReference.cache
+E:\code\csharp\FolderDivider-master\FolderDivider\obj\Debug\MainWindow.g.cs
+E:\code\csharp\FolderDivider-master\FolderDivider\obj\Debug\App.g.cs
+E:\code\csharp\FolderDivider-master\FolderDivider\obj\Debug\FolderDivider_MarkupCompile.cache
+E:\code\csharp\FolderDivider-master\FolderDivider\obj\Debug\FolderDivider_MarkupCompile.lref
+E:\code\csharp\FolderDivider-master\FolderDivider\obj\Debug\MainWindow.baml
+E:\code\csharp\FolderDivider-master\FolderDivider\obj\Debug\FolderDivider.g.resources
+E:\code\csharp\FolderDivider-master\FolderDivider\obj\Debug\FolderDivider.Properties.Resources.resources
+E:\code\csharp\FolderDivider-master\FolderDivider\obj\Debug\FolderDivider.csproj.GenerateResource.cache
+E:\code\csharp\FolderDivider-master\FolderDivider\obj\Debug\FolderDivider.csproj.CoreCompileInputs.cache
+E:\code\csharp\FolderDivider-master\FolderDivider\obj\Debug\FolderDivider.exe
+E:\code\csharp\FolderDivider-master\FolderDivider\obj\Debug\FolderDivider.pdb
